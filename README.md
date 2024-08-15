@@ -1,8 +1,8 @@
-# CodeTech-Task_2
+# CodTech-Task_2
 
 Name: GUDLA PUSHPANTH
 
-Company: CODETECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 
 Id: CT08DS5105
 
